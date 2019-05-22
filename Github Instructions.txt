@@ -1,0 +1,47 @@
+to clone repo:
+git clone https://github.com/cgilbert05/Project-Team-Blue.git
+ (you will need to right click in your terminal to paste)
+
+to create your branch:
+go into Project-Team-Blue (should show as master)
+git checkout -b (type your last name)
+
+to commit and push your new branch to the repo:
+git push origin (your last name)
+
+to move from branch to master (or vice versa):
+git checkout (master or branch name)
+
+
+I should be able to accept the commit once you have done these items. I will be rewatching the class video as well as doing some more research on Github and will come up with some best practices. I'll post these to the repo once complete. If anyone needs help shoot me a message on slack or I can help tomorrow night at class. 
+
+Other common commands in your terminal:
+to create a new file in your branch:
+touch (name of file and type)
+
+to create a new directory:
+mkdir (name of directory)
+
+see list of files in current directory:
+ls
+
+to check status of your files for tracking and push purposes:
+git status
+
+
+For "staging" of your files prior to "commit":
+to add all items in your current directory for tracking in Github:
+git add .
+
+OR
+to add all items from all directories for tracking in Github:
+git add --all
+
+to commit your files to the repository:
+git commit -m "(leave message here as to what you are committing)"
+
+
+
+
+
+
