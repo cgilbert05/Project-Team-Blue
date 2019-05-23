@@ -6,8 +6,11 @@ to create your branch:
 go into Project-Team-Blue (should show as master)
 git checkout -b (type your last name) -- THIS IS CASE SENSITIVE!
 
-to commit and push your new branch to the repo:
-git push origin (branch name)
+to commit and push your new branch to the repo FIRST TIME ONLY:
+git push --set-upstream origin (branch name)
+
+to commit and push your changes to your branch:
+git puch (while in your branch)
 
 to move from branch to master (or vice versa):
 git checkout (master or branch name)
