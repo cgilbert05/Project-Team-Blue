@@ -37,10 +37,4 @@ to commit your files to the repository:
 git commit -m "(leave message here as to what you are committing)"
 
 to push your commit:
-git push --set-upstream origin (branch name)
-
-
-
-
-
-
+git push origin (branch name)
