@@ -20,8 +20,11 @@ Target Data Sets:
 2. Provisional Drug Overdose Death Counts (13661 observations)
 3. Pharmaceutical data (TBD)
 
-Work Break Down Structure: 
+Dataset sources:
+https://openpaymentsdata.cms.gov/
+https://www.cdc.gov/drugoverdose/index.html
 
+Work Break Down Structure: 
 Chris Gilbert - Git Repo Manager
 Ileri Onabanjo - Data Munging
 Suzanne Polk - Data Viz
