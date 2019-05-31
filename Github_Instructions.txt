@@ -41,3 +41,6 @@ git commit -m "(leave message here as to what you are committing)"
 
 to push your commit:
 git push origin (branch name)
+
+to update your branch to the current version of the master (will not save unmerged changes in your branch):
+git rebase master
